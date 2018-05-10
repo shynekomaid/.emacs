@@ -1,5 +1,7 @@
 ﻿;;author: tminei
 ;;site: tmi.zzz.com.ua
+(setq user-full-name   "%user-name%")
+(setq user-mail-adress "%user-mail%")
 
 (defun system-is-linux()
     (string-equal system-type "gnu/linux"))
@@ -24,8 +26,7 @@
     (setq unix-init-slime-path   "/usr/share/common-lisp/source/slime/")
     (setq unix-init-ac-dict-path "~/.emacs.d/plugins/auto-complete/dict"))
 
-(setq user-full-name   "tminei")
-(setq user-mail-adress "tminei@ukr.net")
+
 ;; Org-mode settings
 (require 'org) ;; Вызвать org-mode
 (global-set-key "\C-ca" 'org-agenda) ;; поределение клавиатурных комбинаций для внутренних
