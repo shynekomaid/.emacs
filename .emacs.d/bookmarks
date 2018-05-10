@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("quick_file"
+ (filename . "~/quick_file")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1))
+("emacs_help"
+ (filename . "~/doc/help.emacs")
+ (front-context-string . "\n\n[Середина стра")
+ (rear-context-string . "Например:\n\n\n\n\n\n\n")
+ (position . 1359))
+(".emacs"
+ (filename . "~/.emacs")
+ (front-context-string . "\n(global-set-key")
+ (rear-context-string . " горячие клавиши")
+ (position . 1501))
+)

@@ -1,0 +1,96 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu May 10 20:36:18 2018
+;; Desktop file format version 206
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23284 33554 914437 800000) (desktop . "208") "tminei@DESKTOP-H8QCUEH" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 0) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (height . 24) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (visibility) (frameset--id . "B973-CBD3-F2D1-9E8B") (frameset--mini t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (width . 79) (left . 4) (top . 4)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 80) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 24) (min-pixel-height-safe . 16) (min-pixel-width-safe . 16)) leaf (pixel-width . 640) (pixel-height . 368) (total-width . 80) (total-height . 23) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 8 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (((font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 0) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (height . 38) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (environment) (frameset--id . "EE33-39DC-7AF1-5C6B") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (fullscreen-restore . maximized) (visibility . t) (width . 80) (left . 359) (top . 97)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 80) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 40) (min-pixel-height-safe . 16) (min-pixel-width-safe . 16)) leaf (pixel-width . 648) (pixel-height . 592) (total-width . 81) (total-height . 37) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs<t.emacs>" (selected . t) (hscroll . 0) (fringes 8 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("ma" "paren" "show-pa" "dired" "user" "ya" "yasnippets" "company" "auto-c" "e" " e  " "e" "kah" "temp" "te	"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("c:/Users/tminei/Documents/temp.txt" "c:/Users/tminei/AppData/Roaming/text.txt" "/home/tminei/doc/\214\342\214\343\214\234 \254\332.txt" "/home/tminei/doc/books/Glover_-_Hvatit_byt_Priyatnym_parnem.fb2" "/home/tminei/doc/books/\214\262\214\207\254\342\214\214\254\234\364\257\234\364\245\307\254\341 - \214\266\214\234\364\253\227\253\352\364\260\354\351\214\207\254\234\364\260\354\320. \214\263\214\234\364\252\354\325 \214\343 \214\234\364\260\354\234\364\253\314\325 \214\234\364\256\354\234\364\260\354\234\364\261\227\253\352 \364\256\354\320_.fb2" "/home/tminei/.bash_profile" "/home/tminei/doc/basic.b" "/home/tminei/doc/quick_filee" "/home/tminei/doc/.quick_file" "/home/tminei/doc/quik_file" "/home/tminei/doc/html.html" "/home/tminei/doc/py.py" "/home/tminei/doc/new.txt" "/home/tminei/.emacs.d/snippets" "/home/tminei/.emacs.d" "~/doc/.emacs-clone" "~/doc" "~/" "~/.emacs" "~/doc/org/TODO.org" "~/doc/org/todo.org" "~/doc/org" "~/" "~/doc/todo.org" "~/doc/temp1" "~/doc/shell.txt" "~/doc/temp" "~/doc/" "~/" "~/.emacs.d/" "~/" "~/doc/help.emacs" "~/doc/help.txt" "~/doc/temp" "~/doc/temp.txt" "~/f:/" "~/" "~/doc/temp" "~/doc/temp.txt" "~/" "~/cd" "~/doc/books/Glover_-_Hvatit_byt_Priyatnym_parnem.fb2" "~/.emacs" "~/doc/books/\214\263\214\234\364\257\227\253\352\364\261\227\253\352\364\251\227\253\352\364\253\314\340_-_\214\204\234\364\251\334\364\251\227\253\336\254\342\214\207\254\342_\214\214\354\353\214\342\214\354_\214\277\214\340\214\207\254\357\214\342\214\234\364\260\354\353\214\334_\214\234 \254\340\214\234\364\260\354\234\364\253\314\334!.txt" "~/\214\264\214\234\364\261\227\253\352\364\256\354\343\214\234 \364\253\227\253\352\364\260\354\342\214\353/\214\272\214\234\364\260 \234\364\252\254\330/\214\263\214\234\364\257\227\253\352\364\261\227\253\352\364\251\227\253\352\364\253\314\340_-_\214\204\234\364\251\334\364\251\227\253\336\254\342\214\207\254\342_\214\214\354\353\214\342\214\354_\214\277\214\340\214\207\254\357\214\342\214\234\364\260\354\353\214\334_\214\234 \254\340\214\234\364\260\354\234\364\253\314\334!.txt" "f:/emacs/tminei/temp.txt" "c:/" "f:/" "f:/germ.txt" "f:/emacs/bin/" "~/.temp"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "f:/scriptum/GitHub/t.emacs/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode yas-minor-mode undo-tree-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "c:/bbZero/plugins/BBDigitalEx/alarms.rc"
+  "alarms.rc"
+  'fundamental-mode
+  '(visual-line-mode yas-minor-mode undo-tree-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "c:/Users/tminei/AppData/Roaming/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(visual-line-mode yas-minor-mode undo-tree-mode linum-mode)
+  709
+  '(213 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "*eww*"
+  'eww-mode
+  '(visual-line-mode yas-minor-mode undo-tree-mode linum-mode)
+  1
+  '(1 t)
+  t
+  '(:history ((:title "" :url "http://alexott.net/ru/emacs/TUTORIAL.ru" :point 1900) (:title "emacs_help.txt - Google ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒêŒªŒÔŒ£©ŒªŒ±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒÔŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒÚŒªŒ¤ŒªŒÄŒªŒ¨Œ£©ŒªŒ¤Œª±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£©ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£©ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒôŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒúŒä©ŒÁŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£©ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£±" :url "https://drive.google.com/file/d/1MVFdE86HZxfm8WJ4H338lqHUjl__uK-9/view?usp=drive_web" :point 1) (:title "ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¶ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£·ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£µŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ´ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒºŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œªœô©ÑŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£©ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£©ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£°ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£±ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£®ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒªŒôŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤ŒúŒä©ŒÁŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œª®ŒªŒ¤Œª¤ŒªŒ¤ŒªŒ®ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£©ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤Œª¤ŒªŒ¨Œ£¤ŒªŒ¤Œª¤ŒªŒ¤Œ£¤ŒªŒ¤ŒªŒ¡ŒªŒ¨Œ£± emacs | tmi.zzz.com.ua" :url "http://tmi.zzz.com.ua/emacs" :point 630) (:title "tmi.zzz.com.ua" :url "http://tmi.zzz.com.ua/" :point 357) (:title "Google Search - Wikipedia" :url "https://en.wikipedia.org/wiki/Google_Search" :point 834) (:title "google.com at DuckDuckGo" :url "https://duckduckgo.com/html/" :point 103) (:title "DuckDuckGo" :url "https://duckduckgo.com/html/?q=" :point 30)))
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t) (eww-history-position . 2)))
+
+(desktop-create-buffer 206
+  nil
+  "f:/"
+  'dired-mode
+  '(visual-line-mode yas-minor-mode linum-mode)
+  1
+  '(nil nil)
+  t
+  '("f:/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "emacs"
+  'dired-mode
+  '(visual-line-mode yas-minor-mode linum-mode)
+  124
+  '(nil nil)
+  t
+  '("f:/emacs/")
+  '((truncate-lines)))
+
+(desktop-create-buffer 206
+  nil
+  "tminei"
+  'dired-mode
+  '(visual-line-mode yas-minor-mode linum-mode)
+  131
+  '(nil nil)
+  t
+  '("f:/emacs/tminei/")
+  '((truncate-lines)))
+

@@ -1,0 +1,45 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+("/home/" . "tminei/")
+("/home/tminei/doc/" . "books/")
+("/home/tminei/" . "doc/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+"/home/tminei/doc/"
+"/home/tminei/doc/books/"
+"/home/tminei/"
+)
+
+;; ----- ido-work-file-list -----
+(
+"тупик.txt"
+"Glover_-_Hvatit_byt_Priyatnym_parnem.fb2"
+"Виталис - Женщина. Где у нее кнопка_.fb2"
+".emacs"
+".bash_profile"
+"basic.b"
+"quick_filee"
+".quick_file"
+"quik_file"
+"html.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+("/home/tminei/" (23280 48354 855302 87000) ".swo" "prog/" ".calc_history" "vid/" "share/" "common-lisp/" ".emacs" ".inputrc" ".swp" ".nano/" ".pki/" ".sbclrc" ".xsession-errors.old" ".#.emacs" "desk/" ".thunderbird/" ".newsrc-dribble" ".fonts/" ".bash_profile" ".linuxmint/" ".cache/" ".dosbox/" ".bash_history" ".local/" ".gconf/" ".nvidia-settings-rc" ".nv/" "macros/" ".elinks/" ".slime/" "man/" ".Xauthority" ".ICEauthority" ".profile" ".bashrc" ".chocolate-doom/" ".sudo_as_admin_successful" ".thumbnails/" ".fceux/" ".bash_logout" ".gnome2/" "quicklisp/" ".blackboxrc" ".gnupg/" ".themes/" ".emacs.d/" ".icons/" "game/" ".Private/" ".dmrc" ".links2/" ".config/" ".gnome/" ".FBReader/" "News/" ".mozilla/" ".xsession-errors" ".gimp-2.8/" ".lesshst" ".shutter/" "muz/" ".conky/" "img/" ".viminfo" ".ecryptfs/" ".emacs~" "down/" ".dbus/" ".swn" "doc/" ".wget-hsts" "arch/" ".gksu.lock" "../" "./")
+
+("/home/tminei/doc/" (23280 44906 758217 680000) "help.emacs" "тупик.txt" "system/" "basic.b" "books/" ".emacs.d/" "quick_file" "../" "./")
+
+("/home/" (23275 16256 289536 411000) "tminei/" ".ecryptfs/" "lost+found/" "../" "./")
+
+("/home/tminei/.ecryptfs/" (23275 16258 509536 464000) "wrapped-passphrase" "Private.mnt" "auto-umount" "Private.sig" "auto-mount" "../" "./")
+
+("/home/tminei/doc/books/" (23276 41848 73601 537000) "#Виталис - Женщина. Где у нее кнопка_.fb2#" "#Гловер_-_Хватит_быть_Приятным_парнем!.txt#" "Ватт С., Мангада М. Бейсик для детей (1990).pdf" "schemas.xml" "desktop.ini" "Дейтел Х., Дейтел П. Как программировать на C++ (5-е издание, 2008) — копия.djvu" "Виталис - Женщина. Где у нее кнопка_.fb2" "Povest-vremennyh-let.pdf" "../" "Glover_-_Hvatit_byt_Priyatnym_parnem.fb2" "FizMiG_v.2.1 + HotA.pdf" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

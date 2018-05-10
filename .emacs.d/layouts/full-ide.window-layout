@@ -1,0 +1,24 @@
+(nil
+    (0 0 152 35)
+    (t
+     (0 0 29 35)
+     (:purpose dired :purpose-dedicated t :width 0.16 :height 0.5 :edges
+               (0.0 0.0 0.19333333333333333 0.5))
+     (:purpose buffers :purpose-dedicated t :width 0.16 :height 0.4722222222222222 :edges
+               (0.0 0.5 0.19333333333333333 0.9722222222222222)))
+    (t
+     (29 0 125 35)
+    (:purpose edit :purpose-dedicated t :width 0.6 :height 0.85 :edges
+              (0.19333333333333333 0.0 0.8266666666666667 0.85))
+    (:purpose misc :purpose-dedicated t :width 0.6 :height 0.1 :edges
+              (0.19333333333333333 0.8722222222222222 0.8266666666666667 0.9722222222222222))
+    )
+    (t
+     (125 0 152 35)
+    (:purpose ilist :purpose-dedicated t :width 0.15333333333333332 :height 0.6 :edges
+              (0.82666666666666667 0.0 0.9722222222222222 0.6))
+    (:purpose todo :purpose-dedicated t :width 0.15333333333333332 :height 0.372222222 :edges
+              (0.8266666666666667 0.6 0.9722222222222222 0.9722222222222222))
+
+     )
+    )

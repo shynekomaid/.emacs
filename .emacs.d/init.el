@@ -1,0 +1,6 @@
+(defun load-purpose-mode ()
+  (interactive)
+  (purpose-load-window-layout-file "~/.emacs.d/layouts/full-ide.window-layout")
+  (purpose-x-code1-setup)
+)
+(global-set-key (kbd "M-L") 'load-purpose-mode)
