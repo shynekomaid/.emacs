@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("blackbox/menu.rc"
+ (filename . "c:/bbZero/menu.rc")
+ (front-context-string . "        [submenu")
+ (rear-context-string . "eanSkinMenu.rc}\n")
+ (position . 1180))
+("germ.txt"
+ (filename . "f:/germ.txt")
+ (front-context-string . "     \n         \n")
+ (rear-context-string . "      \n   ³םרו. ")
+ (position . 782))
+(".emacs"
+ (filename . "~/.emacs")
+ (front-context-string . "\n(global-set-key")
+ (rear-context-string . "last-kbd-macro) ")
+ (position . 1300))
+)
