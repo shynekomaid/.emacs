@@ -6,8 +6,6 @@
 (defun system-is-windows()
 	(string-equal system-type "windows-nt"))
 
-
-
 ;; MS Windows path-variable
 (when (system-is-windows)
     (setq win-sbcl-exe          "C:/sbcl/sbcl.exe")
@@ -25,7 +23,6 @@
     (setq unix-init-ac-path      "~/.emacs.d/plugins/auto-complete")
     (setq unix-init-slime-path   "/usr/share/common-lisp/source/slime/")
     (setq unix-init-ac-dict-path "~/.emacs.d/plugins/auto-complete/dict"))
-
 
 (setq user-full-name   "tminei")
 (setq user-mail-adress "tminei@ukr.net")
@@ -79,7 +76,6 @@
 (setq font-lock-maximum-decoration t)
 
 ;;require
-
 (require 'bs)
 (setq bs-configurations
       '(("files" "^\\*scratch\\*" nil nil bs-visits-non-file bs-sort-buffer-interns-are-last)))
@@ -93,7 +89,6 @@
 (global-set-key (kbd "RET") 'newline-and-indent) ;; при нажатии Enter перевести каретку и сделать отступ
 (setq lisp-indent-function  'common-lisp-indent-function)
 
-
 (require 'ido)
 (ido-mode t)
 (setq ido-enable-flex-matching t)
@@ -104,7 +99,6 @@
 ;;репозитории
 (require 'package)
 (add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
-
 
 (package-initialize)
 
@@ -129,7 +123,6 @@
 (global-set-key (kbd "C-<f9>") 'hs-hide-all)
 (global-set-key (kbd "C-S-<f9>") 'hs-show-all)
 
-
 (add-to-list 'load-path "~/.emacs.d/elpa/sr_speedbar/")
 (require 'sr-speedbar)
 (yas-global-mode 1)
@@ -150,9 +143,6 @@
 (desktop-save-mode t) ;; сохранять буфера после закрытия
 (global-linum-mode '1) ;; номерация строк
 (evil-mode 0) ;; режим vim по-умолчанию выключен
-										;(global-hl-line-mode 1) ;; подсветка строки с курсором
-
-
 (setq use-dialog-box     nil) ;; никаких графических диалогов и окон - все через минибуфер
 (setq redisplay-dont-pause t)  ;; лучшая отрисовка буфера
 (setq ring-bell-function 'ignore) ;; отключить звуковой сигнал
@@ -161,7 +151,6 @@
 (setq require-final-newline    t) ;; добавить новую пустую строку в конец файла при сохранении
 (setq next-line-add-newlines nil) ;; не добавлять новую строку в конец при смещении
 ;; курсора  стрелками
-
 
 ;; Highlight search resaults
 (setq search-highlight        t)
@@ -286,13 +275,10 @@
 (global-set-key "\C-x\M-v" 'imenu) ;; вызов Imenu на F6
 (global-set-key "\C-x\M-a" 'show-paren-mode)
 
-
 ;;различные настройки
 ;; Ace-window переключение окон по M-p
 (global-set-key (kbd "M-p") 'ace-window)
 (setq aw-keys '(?z ?x ?c ?v ?b ?n ?m ?k ?l))
-										;(setq aw-background nil) ;; запрет на изменение фона при M-(point)
-
 
 ;;fb2 авто переход в режим чтения
 (add-to-list 'auto-mode-alist '(".fb2$" . fb2-mode-view))
@@ -310,3 +296,4 @@
  '(inhibit-startup-screen t)
  '(package-selected-packages (quote (html5-schema w3 ## ace-window)))
  '(size-indication-mode t))
+;;end of .emacs file
