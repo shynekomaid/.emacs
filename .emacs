@@ -1,5 +1,6 @@
 ﻿;;author: tminei
 ;;site: tmi.zzz.com.ua
+
 (setq user-full-name   "%user-name%")
 (setq user-mail-adress "%user-mail%")
 
